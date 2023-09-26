@@ -34,6 +34,6 @@
         string str2 = "!@#$abc";
 
         int result = CountDifferentCharacters(str1, str2);
-        Console.WriteLine("Number of different characters: " + result); // Output: 4
+        Console.WriteLine("Number of different characters: " + result); 
     }
 }
